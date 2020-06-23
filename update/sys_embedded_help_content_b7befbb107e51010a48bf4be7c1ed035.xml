@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <content><![CDATA[<h1 class="title topictitle1">Using the NeedIt List</h1>
+<p>Use the NeedIt application to request services and goods from several departments.</p>
+<ul class="steps-unordered"><li class="li step">Legal</li><li class="li step">Human Resources</li><li class="li step">Facilities</li></ul>
+<h2 class="title sectiontitle">NeedIt List Fields</h2>
+<ol class="steps-ordered"><li class="li step">The usual</li></ol>
+<div class="note tm-element"><span class="notetitle">Note: For more help please see the <a title="linked video" href="https://www.youtube.com/watch?v&#61;DbRocGg6kbw&amp;feature&#61;youtu.be" target="_blank" rel="noopener">linked video</a>.</span></div>
+<p> </p>]]></content>
+        <last_sync/>
+        <modifier>normal</modifier>
+        <name>NeedIt List - User</name>
+        <page>x_58872_needit_needit_list</page>
+        <product>1</product>
+        <qualifier/>
+        <role display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">4e42fb8d0fa83200cd674f8ce1050e72</role>
+        <role_order>1000</role_order>
+        <snc_created>false</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-23 01:47:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b7befbb107e51010a48bf4be7c1ed035</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>NeedIt List - User</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_embedded_help_content_b7befbb107e51010a48bf4be7c1ed035</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-23 02:17:12</sys_updated_on>
+        <version>all</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=b7befbb107e51010a48bf4be7c1ed035"/>
+</record_update>
